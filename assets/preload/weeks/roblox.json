@@ -1,0 +1,24 @@
+{
+	"songs": [
+		[
+			"Fix-It!",
+			"roblox-crying",
+			[ 237, 107, 107 ]
+		]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Roblox",
+	"weekBefore": "roblox",
+	"weekName": "Roblox Maintenance",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				120
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				133
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-88,
+				133
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				31,
+				197
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				48
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				203,
+				178
+			],
+			"anim": "death",
+			"fps": 24,
+			"name": "Death",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Roblox_crying_lol",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "roblox-crying",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		175,
+		175
+	],
+	"camera_position": [
+		-350,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
